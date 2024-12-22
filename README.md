@@ -3,6 +3,8 @@ The Tumor Segmentation Dataset is designed specifically for the TumorSeg Compute
 
 we use U-net to Image-Segmentation
 
+we also use yolov8 to do this project and the details in yolo folder
+
 ## Install
 * python = 3.8
 
