@@ -15,11 +15,8 @@ we use YOLOv8 to Image-Segmentation and dectect the Segmentation is Tumor or Non
 * ultralytics=8.3.51
 
 1.
-```
-git clone https://github.com/gndd1221/Brain-Tumor-Image-Segmentation.git
-cd Brain-Tumor-Image-Segmentation
-```
-2.
+the env is use pytorch, so need to creat a new enviroment
+
 ```
 conda env create --file environment.yaml --name <name>
 ```
@@ -31,6 +28,7 @@ pip install ultralytics
 ```
 
 ## Usage
+Firsr, the origin dataset is COCO format(save as jaso), we change the COCO format dataset to YOLO format dataset(save as txt), then do next step
 
 run the yolov8.ipynb
 
