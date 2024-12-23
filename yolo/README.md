@@ -28,7 +28,7 @@ pip install ultralytics
 ```
 
 ## Usage
-Firsr, the origin dataset is COCO format(save as jasn), we change the COCO format dataset to YOLO format dataset(save as txt), then do next step
+Firsr, the origin dataset is COCO format(save as json), we change the COCO format dataset to YOLO format dataset(save as txt), then do next step
 
 run the yolov8.ipynb
 
